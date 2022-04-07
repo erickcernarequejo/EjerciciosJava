@@ -1,0 +1,5 @@
+001|Informatica|3|12
+002|Computacion|4|16
+002|Computacion|4|16
+002|Computacion|4|16
+003|Algoritmos y Estructura de Datos|3|18
